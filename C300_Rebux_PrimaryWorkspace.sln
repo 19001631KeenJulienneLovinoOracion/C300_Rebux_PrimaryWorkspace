@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C300_Rebux_PrimaryWorkspace", "C300_Rebux_PrimaryWorkspace\C300_Rebux_PrimaryWorkspace.csproj", "{1E706408-34CA-4382-9198-CFBC094DD35A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C300_Rebux_TestingWorkspace", "..\C300_Rebux_TestingWorkspace\C300_Rebux_TestingWorkspace.csproj", "{4515910F-A8EA-41AC-9B93-0CC26BD57AF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E706408-34CA-4382-9198-CFBC094DD35A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E706408-34CA-4382-9198-CFBC094DD35A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E706408-34CA-4382-9198-CFBC094DD35A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E706408-34CA-4382-9198-CFBC094DD35A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4515910F-A8EA-41AC-9B93-0CC26BD57AF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4515910F-A8EA-41AC-9B93-0CC26BD57AF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4515910F-A8EA-41AC-9B93-0CC26BD57AF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4515910F-A8EA-41AC-9B93-0CC26BD57AF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {909F04DD-D3D4-4DD6-A3F3-088A05C5F7B7}
+	EndGlobalSection
+EndGlobal
