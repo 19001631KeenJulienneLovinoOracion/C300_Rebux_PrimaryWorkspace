@@ -7,5 +7,6 @@ namespace C300_Rebux_PrimaryWorkspace.Models
 {
     public class Class
     {
+
     }
 }
