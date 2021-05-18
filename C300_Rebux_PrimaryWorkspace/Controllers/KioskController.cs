@@ -8,7 +8,7 @@ namespace C300_Rebux_PrimaryWorkspace.Controllers
 {
     public class KioskController : Controller
     {
-        public IActionResult Home()
+        public IActionResult MainMenu()
         {
             return View();
         }
