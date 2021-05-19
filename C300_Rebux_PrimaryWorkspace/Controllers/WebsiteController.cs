@@ -13,9 +13,5 @@ namespace C300_Rebux_PrimaryWorkspace.Controllers
             return View();
         }
 
-        public IActionResult UserLogOn()
-        {
-            return View();
-        }
     }
 }
